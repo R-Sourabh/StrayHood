@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+}
+header{
+  text-align: center;
+}
+section{
+  background: #FAFAFA;
+  /* background: #CEE5D0; */
+  padding-top: 60px;
+}
+.box{
+  background: white;
+  width: 700px;
+  margin: auto;
+  margin-top: 4px;
+  margin-bottom: 60px;
+  border: 1px solid #EDEEEE;
+}
+.abc{
+  width: 700px;
+}
+
+div.header{
+  padding: 15px;
+  /* padding-top: 60px; */
+}
+div.header h2{
+  margin: 0;
+  font-size: 20px;
+}
+div.description{
+  padding: 15px;
+}
+
+.box .header .date{
+  float: right;
+  margin: 0;
+}
